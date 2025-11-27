@@ -1,131 +1,125 @@
-<div align="center">
+<div style="width:100%; padding:60px 20px; background:linear-gradient(135deg,#020617,#0a1d2e,#000000); border-radius:14px;">
 
-# 🌐 HELPSYSTEM_PRO  
-## **Rodolfo Santana**  
-### Backend • Data • Automação • Sustentação N4
+<h1 align="center" style="color:#00eaff; font-size:46px; font-weight:800; letter-spacing:1px;">
+  HELPSYSTEM_PRO
+</h1>
 
-<hr style="border: 0.5px solid #0ff; width: 60%;">
+<h2 align="center" style="color:white; margin-top:-10px; font-weight:300;">
+  Rodolfo Santana
+</h2>
 
-### **Tecnologia. Precisão. Automação Inteligente.**
+<h3 align="center" style="color:#8be8ff; margin-top:-8px; font-weight:400;">
+  Backend • Data • Automação • Sustentação N4
+</h3>
 
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 🔧 **STACK PRINCIPAL**
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0A0F25?style=for-the-badge&logo=python&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/SQL%20Server-0A0F25?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Java-0A0F25?style=for-the-badge&logo=openjdk&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/ETL-0A0F25?style=for-the-badge&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Automação-0A0F25?style=for-the-badge&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-0A0F25?style=for-the-badge&logo=googlecloud&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/OpenAI-0A0F25?style=for-the-badge&logo=openai&logoColor=00FFFF" />
+<p align="center" style="color:#c9f7ff; font-size:15px; margin-top:20px; max-width:720px;">
+  Soluções robustas, engenharia de dados aplicada e automação inteligente.
+  Infraestrutura lógica e técnica projetada para estabilidade, performance e resiliência.
 </p>
 
----
-
-<div align="center">
-
-# 🚀 **Quem Sou**
 </div>
 
-Sou especialista em **Sustentação N4**, backend e engenharia de dados, atuando em ambientes corporativos críticos onde **falha não é opção**.
+<br><br>
 
-Trabalho garantindo:
-- Alta disponibilidade  
-- Performance real  
-- Confiabilidade de dados  
-- Logs inteligentes  
-- Integração entre sistemas complexos  
-- Automação avançada via Python  
-- Ambiente corporativo resiliente e auditável  
+<!-- BLOCO SOBRE -->
+<div style="width:100%; padding:40px 35px; background:linear-gradient(135deg,#010912,#0b1522); border-radius:14px; color:#e8faff;">
 
-Minha abordagem combina:
-**Backend + Dados + Automação + IA Corporativa.**
+## 🌐 Sobre Mim
 
----
+Especialista em **Sustentação N4**, backend e engenharia de dados.  
+Atuo em ambientes de missão crítica garantindo **governança técnica**, **correção cirúrgica**, **alta disponibilidade**, **performance real** e **diagnósticos de nível profundo**.
 
-<div align="center">
+Minha atuação combina:
 
-# 🛰️ **Competências Avançadas**
+- Backend corporativo  
+- Python automation  
+- SQL Server avançado  
+- ETL e saneamento  
+- Integrações REST / SOAP  
+- IA aplicada e automação inteligente  
+
+Trabalho sempre com foco em **confiabilidade**, **precisão** e **execução técnica sólida**.
+
 </div>
 
-### **BACKEND & SUSTENTAÇÃO**
-- Diagnóstico profundo  
-- Logs interpretativos  
-- Análise de integrações  
-- Resolução de inconsistências em DMS, Workflow e WA  
+<br><br>
 
-### **DADOS & SQL SERVER**
-- Procedures, Views, Tuning, Jobs  
-- ETL real em produção  
-- Validação e saneamento de datasets  
-- Arquitetura relacional crítica  
+<!-- BLOCO STACK -->
+<div style="width:100%; padding:40px 35px; background:linear-gradient(135deg,#060e19,#0b2033); border-radius:14px;">
 
-### **PYTHON CORPORATIVO**
-- Automação completa  
-- Parsing de XML/CSV/PDF  
-- Integrações Google API  
-- APIs REST / serviços inteligentes  
-- Pipelines de dados  
+<h2 align="center" style="color:#00eaff;">⚙️ Stack Tecnológica</h2>
 
-### **IA APLICADA**
-- OpenAI API  
-- Prompt Engineering  
-- Ferramentas de apoio à sustentação  
-- Análise inteligente de dados e logs  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-06111C?style=for-the-badge&logo=python&logoColor=00EAFF" />
+  <img src="https://img.shields.io/badge/SQL%20Server-06111C?style=for-the-badge&logo=microsoftsqlserver&logoColor=00EAFF" />
+  <img src="https://img.shields.io/badge/Java-06111C?style=for-the-badge&logo=openjdk&logoColor=00EAFF" />
+  <img src="https://img.shields.io/badge/OpenAI-06111C?style=for-the-badge&logo=openai&logoColor=00EAFF" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-06111C?style=for-the-badge&logo=googlecloud&logoColor=00EAFF" />
+  <img src="https://img.shields.io/badge/ETL-06111C?style=for-the-badge&logoColor=00EAFF" />
+</p>
 
----
+### **Áreas de Atuação**
+- Backend corporativo  
+- Sustentação avançada  
+- Pipelines de dados (ETL)  
+- SQL Server (tuning, jobs, procedures, views)  
+- Automação Python end-to-end  
+- Integrações em produção  
+- Observabilidade e logs inteligentes  
+- IA aplicada (OpenAI + automações)  
 
-<div align="center">
-
-# 📂 **Projetos Profissionais**
 </div>
+
+<br><br>
+
+<!-- BLOCO PROJETOS -->
+<div style="width:100%; padding:40px 35px; background:linear-gradient(135deg,#010a14,#021623); border-radius:14px; color:white;">
+
+<h2 align="center" style="color:#00eaff;">🚀 Projetos em Destaque</h2>
 
 | Projeto | Descrição | Stack |
 |--------|-----------|--------|
-| **CT-e Automation** | Pipeline completo: leitura XML → PDF DACTE → regras → CSV → painel. | Python, Flask, XML, PDF, Google API |
-| **Correção WebPosto** | Robô de saneamento e correção automática via PostgreSQL. | Python, PostgreSQL |
-| **Tools N4 – Sustentação** | Conjunto de scripts de diagnóstico avançado e análise de logs. | Python, SQL Server |
-| **Finance Intelligence** | Motor de cálculos, disciplina financeira e controle de ativos. | Python, JS, HTML |
+| **CT-e Automation** | Pipeline completo: XML → regras → PDF DACTE → CSV → dashboard. | Python, Flask, XML, PDF, Google API |
+| **Correção WebPosto** | Robô de saneamento automático e correções transacionais. | Python, PostgreSQL |
+| **Tools N4 – Sustentação** | Scripts profissionais para logs, validações e integrações DMS. | Python, SQL Server |
+| **Finance Intelligence System** | Motor financeiro, projeções e controle disciplinado. | Python, JS |
 
----
-
-<div align="center">
-
-# 📊 **Métricas**
 </div>
 
+<br><br>
+
+<!-- BLOCO MÉTRICAS -->
+<div style="width:100%; padding:40px 35px; background:linear-gradient(135deg,#020617,#0b1c30); border-radius:14px;">
+
+<h2 align="center" style="color:#00eaff;">📊 Métricas</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSantana1990&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSantana1990&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSantana1990&layout=compact&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSantana1990&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+</div>
 
-<div align="center">
+<br><br>
 
-# 🌐 **Conexões**
+<!-- BLOCO CONTATO -->
+<div style="width:100%; padding:40px 35px; background:linear-gradient(135deg,#010912,#0b1522); border-radius:14px; color:#e8faff;">
 
-**Website Oficial:** https://helpsystempro.netlify.app  
-**GitHub:** https://github.com/MrSantana1990  
-**LinkedIn:** https://www.linkedin.com/in/rodolfosjesus  
-**E-mail:** helpsystempro@gmail.com  
+<h2 align="center" style="color:#00eaff;">🌐 Conexões</h2>
 
-<hr style="border: 0.5px solid #0ff; width: 60%;">
+<p align="center">
+  <strong>Website:</strong> https://helpsystempro.netlify.app<br><br>
+  <strong>GitHub:</strong> https://github.com/MrSantana1990<br><br>
+  <strong>LinkedIn:</strong> https://www.linkedin.com/in/rodolfosjesus<br><br>
+  <strong>E-mail:</strong> helpsystempro@gmail.com
+</p>
 
-### **HELPSYSTEM_PRO**  
-#### Tecnologia • Precisão • Automação Inteligente
+<hr style="border:0.6px solid #00eaff; width:50%; margin-top:30px;">
+
+<h3 align="center" style="color:#00eaff;">HELPSYSTEM_PRO</h3>
+<p align="center">Tecnologia • Precisão • Automação Inteligente</p>
 
 </div>
