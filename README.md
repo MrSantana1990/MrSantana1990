@@ -33,7 +33,7 @@ Sou especialista em <strong>Sustentação N4</strong> e engenharia de dados, at
 <p align="center">
   <img src="https://img.shields.io/badge/Python-03182c?style=for-the-badge&logo=python&logoColor=00E9FF" />
   <img src="https://img.shields.io/badge/SQL%20Server-03182c?style=for-the-badge&logo=microsoftsqlserver&logoColor=00E9FF" />
-  <img src="https://img.shields.io/badge/Java-03182c?style=for-the-badge&logo=java&logoColor=00E9FF" />
+  <img src="https://img.shields.io/badge/Java-03182c?style=for-the-badge&logo=openjdk&logoColor=00E9FF" />
   <img src="https://img.shields.io/badge/OpenAI-03182c?style=for-the-badge&logo=openai&logoColor=00E9FF" />
   <img src="https://img.shields.io/badge/Google%20Cloud-03182c?style=for-the-badge&logo=googlecloud&logoColor=00E9FF" />
   <img src="https://img.shields.io/badge/Docker-03182c?style=for-the-badge&logo=docker&logoColor=00E9FF" />
