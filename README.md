@@ -1,40 +1,88 @@
-<h1 align="center">👨🏽‍💻 Rodolfo Santana</h1>
-<h3 align="center">Fundador da <a href="https://helpsystempro.netlify.app">HelpSystem_Pro 🚀</a></h3>
+<h1 align="center">Rodolfo Santana • Backend | Data | Automação</h1>
+<h3 align="center">Sustentação N4 • Engenharia de Dados • Integração de Sistemas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSantana1990&show_icons=true&theme=radical" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automação-0A66C2?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧠 Sobre mim
-- 🔍 Suporte Técnico N4 | Sustentação de sistemas
-- 🛠️ Desenvolvedor Backend com foco em automações e integração de dados
-- ⚙️ Java, Python, SQL, Docker, FastAPI, Shell Script
-- 🤖 Soluções com Inteligência Artificial para negócios
-- 🌐 Fundador da HelpSystem_Pro: TI, Infraestrutura, Cloud e IA
+## 👋 Sobre mim
+Sou **Analista de Sustentação N4** especializado em **backend, dados e automações corporativas**.  
+Atuo garantindo **alta disponibilidade**, **performance**, **logs assertivos** e **integrações robustas** entre sistemas críticos.
+
+Tenho forte experiência com:
+- **SQL Server** (procedures, triggers, views, tuning, jobs)  
+- **ETL**, tratamento de dados e pipelines  
+- **Python para automações**, APIs, manipulação de XML/CSV/PDF  
+- Integrações via **REST, SOAP, Google Cloud, OpenAI**  
+- Sustentação de grandes plataformas (DMS, Workflow, WA, Apollo, etc.)  
+
+Minha visão é entregar **solução**, **performance** e **confiabilidade**.
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🧠 Stack Técnica
+
+### **Linguagens**
+- Python  
+- SQL (T-SQL, SQL Server)  
+- Java  
+- JavaScript (nível intermediário)  
+
+### **Dados**
+- ETL / Data Pipelines  
+- Modelagem Relacional  
+- Análise de Logs  
+- Normalização e tratamento de datasets  
+- Integração entre bancos distintos  
+
+### **Ferramentas**
+- Google Cloud API (Drive, Sheets, Gmail)  
+- Docker  
+- Postman / Insomnia  
+- Git & CI/CD básico  
+
+### **IA & Automação**
+- Prompt Engineering (OpenAI / Gemini)  
+- Criação de automações corporativas em Python  
+- Parsing inteligente (XML → CSV/PDF)  
+- Extração, limpeza e estruturação de dados  
+
+---
+
+## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Corrigir Pedido WebPosto](https://github.com/MrSantana1990/Corrigir_Pedido---WebPosto) | Automatiza correções de pedidos não processados | Python |
-| [Projeto Financeiro](https://github.com/MrSantana1990/Projeto-Financeiro) | Planejamento financeiro pessoal com HTML e JS | HTML, JS |
-| [Voltar Abastecimentos WebPosto](https://github.com/MrSantana1990/Voltar_Abastecimentos_WebPosto) | Restabelece registros no PDV | Python |
-| [Orçamento HTML](https://github.com/MrSantana1990/Orcamento) | Interface web para orçamento simples | HTML |
+| **CT-e Automation** | Pipeline completo para leitura de XML, geração de PDFs DACTE, dashboards e exclusão de CT-e por regra de negócio. | Python, Flask, XML, PDF, Google API |
+| **Correção Automática – WebPosto** | Automação backend que corrige pedidos inconsistentes direto no PostgreSQL. | Python, PostgreSQL |
+| **Sistema Financeiro Pessoal** | Controle de receitas, dívidas, disciplina financeira e projeções mensais. | HTML, JS, Python |
+| **Workflow / Sustentação N4 Tools** | Scripts e processos internos para análise profunda de logs e validação de integrações DMS. | Python, SQL Server |
 
 ---
 
-### 🌎 Contato e Links
-- 📧 Email: helpsystempro@gmail.com  
-- 🌐 Site: [helpsystempro.netlify.app](https://helpsystempro.netlify.app)  
-- 📷 Instagram: [@helpsystems_pro](https://instagram.com/helpsystems_pro)  
-- 📍 Campinas/SP
-
----
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrSantana1990&color=blue" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSantana1990&theme=dark"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSantana1990&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 🌐 Conexões & Contato
+
+**Site:** https://helpsystempro.netlify.app/  
+**GitHub:** https://github.com/MrSantana1990  
+**E-mail:** helpsystempro@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/rodolfosjesus  
+
+<h3 align="center">HelpSystem_Pro • Tecnologia sem complicação</h3>
