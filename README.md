@@ -1,88 +1,103 @@
-<h1 align="center">Rodolfo Santana • Backend | Data | Automação</h1>
-<h3 align="center">Sustentação N4 • Engenharia de Dados • Integração de Sistemas</h3>
-
+<!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automação-0A66C2?style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/MrSantana1990/MrSantana1990/main/assets/banner-tech.png" width="100%" />
+</p>
+
+<h1 align="center">Rodolfo Santana</h1>
+<h3 align="center">Backend • Data • Automação • Sustentação N4</h3>
+
+---
+
+<!-- FRASE DE IMPACTO -->
+<p align="center">
+  <strong>Robustez, automação inteligente e engenharia de dados aplicada ao mundo real.</strong><br>
+  Sistemas que não apenas funcionam — mas operam com precisão, velocidade e resiliência.
 </p>
 
 ---
 
-## 👋 Sobre mim
-Sou **Analista de Sustentação N4** especializado em **backend, dados e automações corporativas**.  
-Atuo garantindo **alta disponibilidade**, **performance**, **logs assertivos** e **integrações robustas** entre sistemas críticos.
+## 🧭 Identidade Técnica
+Profissional de **Sustentação N4** e **Backend**, especializado em ambientes corporativos de alta criticidade, engenharia de dados e automações inteligentes.  
+Atuo garantindo confiabilidade, performance e governança em estruturas complexas — sempre com foco em **dados, disponibilidade e integração entre ecossistemas**.
 
-Tenho forte experiência com:
-- **SQL Server** (procedures, triggers, views, tuning, jobs)  
-- **ETL**, tratamento de dados e pipelines  
-- **Python para automações**, APIs, manipulação de XML/CSV/PDF  
-- Integrações via **REST, SOAP, Google Cloud, OpenAI**  
-- Sustentação de grandes plataformas (DMS, Workflow, WA, Apollo, etc.)  
-
-Minha visão é entregar **solução**, **performance** e **confiabilidade**.
+Trabalho na interseção entre:
+- **Data Engineering**
+- **Python Automation**
+- **SQL Server de Alta Performance**
+- **Integrações Corporativas**
+- **APIs Inteligentes (OpenAI, Google, REST/SOAP)**
 
 ---
 
-## 🧠 Stack Técnica
+## ⚙️ Stack Tecnológica Avançada
 
-### **Linguagens**
-- Python  
-- SQL (T-SQL, SQL Server)  
-- Java  
-- JavaScript (nível intermediário)  
-
-### **Dados**
-- ETL / Data Pipelines  
-- Modelagem Relacional  
-- Análise de Logs  
-- Normalização e tratamento de datasets  
-- Integração entre bancos distintos  
-
-### **Ferramentas**
-- Google Cloud API (Drive, Sheets, Gmail)  
-- Docker  
-- Postman / Insomnia  
-- Git & CI/CD básico  
-
-### **IA & Automação**
-- Prompt Engineering (OpenAI / Gemini)  
-- Criação de automações corporativas em Python  
-- Parsing inteligente (XML → CSV/PDF)  
-- Extração, limpeza e estruturação de dados  
+### **Core**
+| Área | Tecnologias |
+|------|-------------|
+| **Backend & Sustentação** | Java, Python, REST/SOAP, Logs, Orquestração |
+| **Dados & ETL** | SQL Server, T-SQL, Stored Procedures, Views, Jobs, Normalização |
+| **Automação & IA** | Python Automation, OpenAI API, Prompt Engineering |
+| **DevOps & Cloud** | Docker, Git, Google Cloud (Drive, Sheets, Gmail API) |
+| **Frontend Operacional** | JS, HTML, UI Processual |
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Premium (Experiência Real)
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **CT-e Automation** | Pipeline completo para leitura de XML, geração de PDFs DACTE, dashboards e exclusão de CT-e por regra de negócio. | Python, Flask, XML, PDF, Google API |
-| **Correção Automática – WebPosto** | Automação backend que corrige pedidos inconsistentes direto no PostgreSQL. | Python, PostgreSQL |
-| **Sistema Financeiro Pessoal** | Controle de receitas, dívidas, disciplina financeira e projeções mensais. | HTML, JS, Python |
-| **Workflow / Sustentação N4 Tools** | Scripts e processos internos para análise profunda de logs e validação de integrações DMS. | Python, SQL Server |
+### **CT-e Data Automation**
+Pipeline completo para leitura, validação, transformação e exportação de CT-e (XML → PDF/CSV), com inteligência para filtragem por regras de negócio e layout profissional no padrão DACTE.  
+**Stack:** Python, Flask, XML Parsing, PDF Generation, Google API
 
 ---
 
-## 📊 GitHub Metrics
+### **WebPosto – Correção Automatizada**
+Mecanismo robusto para análise e correção automática de pedidos inconsistentes, atuando diretamente no banco PostgreSQL com precisão transacional.  
+**Stack:** Python, PostgreSQL, Automação
+
+---
+
+### **Sustentação N4 – Ferramentas Internas**
+Coleção de módulos para leitura profunda de logs, diagnóstico avançado, rastreamento de integrações DMS e validações estruturais de backend.  
+**Stack:** Python, SQL Server, Java, Logs
+
+---
+
+### **Finance Intelligence System**
+Plataforma pessoal para gestão financeira, validação matemática e projeções estratégicas.  
+**Stack:** Python, JavaScript, HTML
+
+---
+
+## 📊 Métricas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSantana1990&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSantana1990&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSantana1990&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSantana1990&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Conexões & Contato
+## 🧩 Arquitetura Profissional
+- Soluções guiadas por **observabilidade, diagnósticos e logs inteligentes**  
+- Estruturas alinhadas a **escalabilidade, rastreabilidade e segurança**  
+- Automação desenhada para **reduzir carga operacional** e aumentar **precisão**  
+- Engenharia aplicada para **garantir disponibilidade e integridade de dados**
 
-**Site:** https://helpsystempro.netlify.app/  
+---
+
+## 🌐 Conexões
+
+**Website Oficial:** https://helpsystempro.netlify.app/  
 **GitHub:** https://github.com/MrSantana1990  
-**E-mail:** helpsystempro@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/rodolfosjesus  
+**Contato:** helpsystempro@gmail.com  
 
-<h3 align="center">HelpSystem_Pro • Tecnologia sem complicação</h3>
+---
+
+<p align="center">
+  <strong>HelpSystem_Pro</strong><br>
+  Tecnologia. Precisão. Automação Inteligente.
+</p>
